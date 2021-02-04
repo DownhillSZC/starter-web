@@ -15,3 +15,6 @@ This is an example to show different parts of the git reposiroty.
 Add more text.
 
 ADD MORE TEXT.
+
+##Copyright
+
