@@ -19,5 +19,6 @@ ADD MORE TEXT.
 
 ##Copyright
 
-CopyRight
+CopyRight. All rights reserved.
+
 
